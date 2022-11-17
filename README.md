@@ -1,14 +1,9 @@
 ### Configuration
 
-1. Get Composer (e.g. like NPM )
-* composer show -all    // list all packages
-2. $composer global require laravel/installer
-3. $php artisan serve 
 
-```
-php
-mysql
-composer
-mysql workbench
-terminal
-```
+* composer show -all // list all packages
+* composer global require laravel/installer
+* laravel new <project>
+* php artisan serve 
+* php artisan make:model <dbname> -m
+* php artisan migrate
